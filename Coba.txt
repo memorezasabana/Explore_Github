@@ -1,4 +1,5 @@
-Nama: Memoreza Sabana
+Nama : Memoreza Sabana
+NIM  : 187221007
 
 Why Enterprise Architecture?
 

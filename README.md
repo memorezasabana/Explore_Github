@@ -1,2 +1,2 @@
-# Explore_Github
+# ExploreGithub
 Explore the use of GitHub

@@ -1,5 +1,6 @@
-Nama : Memoreza Sabana
-NIM  : 187221007
+Nama   : Memoreza Sabana
+NIM    : 187221007
+Kelas  : I3
 
 Why Enterprise Architecture?
 

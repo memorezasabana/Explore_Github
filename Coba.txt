@@ -1,0 +1,18 @@
+Why Enterprise Architecture?
+
+Studi Kasus: Michael (Pekerja di Perusahaan)
+Perusahaan Michael menghadapi tuntutan bisnis baru yang memerlukan data spesifik. Namun, data tersebut tersebar di berbagai aplikasi. Seorang developer ditugaskan untuk membuat sistem yang dapat mengintegrasikan data tersebut. Solusi ini memungkinkan semua data terlihat dalam satu spreadsheet. Jika program dijalankan secara otomatis setiap hari, akan menghemat banyak waktu.
+
+Kondisi ini bukan hanya dialami oleh Michael. Banyak perusahaan menghadapi ribuan data yang belum terintegrasi dalam satu sistem, menciptakan apa yang dikenal sebagai hairball architecture—arsitektur yang kacau tanpa pengawasan dan kontrol yang jelas. Ketika perusahaan harus mengganti aplikasi besar yang sudah usang, sering kali mereka tidak tahu aplikasi mana yang terhubung. Kondisi ini membuat perubahan satu aspek bisa merusak aspek lainnya. Di sinilah peran Enterprise Architecture (EA) sangat penting.
+
+EA hadir untuk menangani masalah ini dengan mengelola IT landscape agar lebih kuat, fleksibel, dan efisien, sehingga memudahkan perbaikan di masa depan.
+
+Peran Enterprise Architecture dalam Proyek:
+Tim proyek menuliskan rencana yang menggambarkan keseluruhan landscape IT setelah proyek selesai. Rencana ini mencakup aplikasi yang akan digunakan, fungsinya bagi bisnis, dan perangkat keras yang diperlukan.
+
+Tiga Aspek Utama dalam Enterprise Architecture:
+
+1. Melihat Situasi yang Ada: Memahami kondisi saat ini.
+2. Membantu Mengembangkan dan Mengevaluasi Desain: Menyusun solusi yang sesuai.
+2. Membuat Sketsa Masa Depan: Menyusun rencana yang jelas sehingga semua pihak memahami tujuan akhirnya.
+Kita tidak bisa memprediksi apa yang akan diminta oleh regulator di masa depan. Namun, dengan memilih arsitektur yang fleksibel, tangguh, dan efisien, kita dapat menjaga kemampuan perusahaan untuk berubah dan beradaptasi sesuai kebutuhan.
